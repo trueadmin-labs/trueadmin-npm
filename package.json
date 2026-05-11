@@ -1,0 +1,20 @@
+{
+  "name": "trueadmin",
+  "version": "0.1.0",
+  "description": "Command-line entrypoint for TrueAdmin.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trueadmin-labs/trueadmin-npm.git"
+  },
+  "type": "module",
+  "bin": {
+    "trueadmin": "./bin/trueadmin.mjs"
+  },
+  "dependencies": {
+    "@trueadmin/cli": "^0.1.0"
+  },
+  "files": [
+    "bin"
+  ]
+}
