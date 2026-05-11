@@ -1,6 +1,6 @@
 {
   "name": "trueadmin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command-line entrypoint for TrueAdmin.",
   "license": "MIT",
   "repository": {
