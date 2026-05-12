@@ -1,6 +1,6 @@
 {
   "name": "trueadmin",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Command-line entrypoint for TrueAdmin.",
   "license": "MIT",
   "repository": {
@@ -16,7 +16,7 @@
     "trueadmin": "bin/trueadmin.mjs"
   },
   "dependencies": {
-    "@trueadmin/cli": "^0.1.12"
+    "@trueadmin/cli": "^0.1.13"
   },
   "files": [
     "bin"
